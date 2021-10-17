@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { GetStaticPaths, GetStaticProps } from 'next';
+import Link from 'next/link';
 
 import { Content } from '../../content/Content';
 import { Meta } from '../../layout/Meta';
@@ -35,8 +36,8 @@ const DisplayPost = (props: IPostProps) => (
       />
     )}
   >
-    {/* <Link href="/">‹ Home</Link> */}
-    <h1 className="font-bold text-5xl text-gray-900">{props.title}</h1>
+    <Link href="/">‹ Home</Link>
+    <h1 className="font-bold text-4xl text-gray-900">{props.title}</h1>
     <Content>
       <div
         // eslint-disable-next-line react/no-danger

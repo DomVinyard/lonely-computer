@@ -10,7 +10,7 @@ Socialism was no longer required. They solved capitalism instead.
 
 A couple of decades earlier a date was set. January 1st 2055, Billionaire Day. That was the day the billionaires were to be murdered.
 
-It was notable for being the first petition to reach one billion signatures. A dark and poetic irony. It’s important to note here that the petition itself didn’t advocate direct violence, that's a misconception. The wording of the petition was translated into over 200 languages, but in English:
+It was notable for being the first petition to reach one billion signatures. A dark irony. It’s important to note here that the petition itself didn’t advocate direct violence, that's a misconception. The wording of the petition was translated into over 200 languages, but in English:
 
 > *Extreme wealth will become illegal worldwide on January 1st 2055. I promise to enforce this ruling as a citizen of the earth.*
 

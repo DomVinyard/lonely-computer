@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
 
-import { Config } from '../utils/Config';
+import Link from 'next/link';
 
 type IMainProps = {
   meta: ReactNode;
@@ -14,8 +14,15 @@ const Main = (props: IMainProps) => (
     <div className="max-w-screen-md mx-auto">
       <div className="border-b border-gray-300">
         <div className="pt-16 pb-8">
-          <div className="font-semibold text-3xl text-gray-900">{Config.title}</div>
-          <div className="text-xl">{Config.description}</div>
+          {/* <div className="font-semibold text-3xl text-gray-900">{Config.title}</div>
+          <div className="text-xl">{Config.description}</div> */}
+          <Link href="/">
+            <img
+              style={{ width: 280, margin: '0 auto 16px auto', cursor: 'pointer' }}
+              src="/assets/images/computer_face.png"
+              alt="Lonely Computer"
+            />
+          </Link>
         </div>
       </div>
 

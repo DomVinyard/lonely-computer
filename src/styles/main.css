@@ -11,3 +11,29 @@ a:hover {
 @tailwind components;
 
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Mononten';
+    src: url('Mononten.ttf') format('truetype'), url('Mononten.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family:'Mononten';
+}
+
+p {
+  font-family:'Mononten';
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+}
+
+blockquote {
+  border-left: 4px solid rgb(221, 225, 238);
+  padding-left: 1rem;
+}
+
+h1 {
+  margin-top: 1rem
+}

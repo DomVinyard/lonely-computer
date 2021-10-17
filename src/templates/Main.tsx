@@ -18,7 +18,7 @@ const Main = (props: IMainProps) => (
           <div className="text-xl">{Config.description}</div> */}
           <Link href="/">
             <img
-              style={{ width: 280, margin: '0 auto 16px auto', cursor: 'pointer' }}
+              style={{ width: 260, margin: '0 auto 16px auto', cursor: 'pointer' }}
               src="/assets/images/computer_face.png"
               alt="Lonely Computer"
             />

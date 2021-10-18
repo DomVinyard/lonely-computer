@@ -17,11 +17,18 @@ const Main = (props: IMainProps) => (
           {/* <div className="font-semibold text-3xl text-gray-900">{Config.title}</div>
           <div className="text-xl">{Config.description}</div> */}
           <Link href="/">
-            <img
-              style={{ width: 260, margin: '0 auto 16px auto', cursor: 'pointer' }}
-              src="/assets/images/computer_face.png"
-              alt="Lonely Computer"
-            />
+            <div style={{ height: 59 }}>
+              <img
+                style={{
+                  width: 260,
+                  height: 59,
+                  margin: '0 auto 16px auto',
+                  cursor: 'pointer',
+                }}
+                src="/assets/images/computer_face.png"
+                alt="Lonely Computer"
+              />
+            </div>
           </Link>
         </div>
       </div>

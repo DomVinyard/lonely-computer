@@ -23,10 +23,14 @@ h1 {
   font-family:'Mononten';
 }
 
-p {
+p, li {
   font-family:'Mononten';
   font-size: 1.5rem;
   line-height: 1.9rem;
+}
+
+ol {
+  list-style: decimal;
 }
 
 blockquote {

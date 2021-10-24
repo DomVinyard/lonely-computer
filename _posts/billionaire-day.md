@@ -1,12 +1,9 @@
 ---
 title: 'Billionaire Day'
-description: The difference between a million and a billion is about a billion.
 date: '2021-10-17'
 modified_date: '2021-10-17'
 image: /assets/images/posts/random-img.jpg
 ---
-
-Socialism was no longer required. They neutered capitalism instead.
 
 A couple of decades earlier a date was set. January 1st 2055, "Billionaire Day". That was the day the billionaires were to be murdered.
 

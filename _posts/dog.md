@@ -1,5 +1,6 @@
 ---
 title: 'Dog'
+description: "none"
 date: '2021-10-24'
 modified_date: '2021-10-24'
 image: /assets/images/posts/random-img.jpg

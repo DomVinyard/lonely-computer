@@ -1,7 +1,7 @@
 ---
 title: 'Billionaire Day'
 description: "none"
-date: '2021-10-17'
+date: '2021-01-02'
 modified_date: '2021-10-17'
 image: /assets/images/posts/random-img.jpg
 ---

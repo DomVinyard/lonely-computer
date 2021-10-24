@@ -5,5 +5,5 @@ export const Config = {
   url: 'https://lonely.computer',
   locale: 'en',
   author: 'Unknown',
-  pagination_size: 5,
+  pagination_size: 20,
 };
